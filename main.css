@@ -1,0 +1,34 @@
+body{
+    background-color: darkgreen;
+}
+.tt{
+    background-color: black;
+    border: solid red ;
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+    margin: 40px;
+   
+}
+.rr{
+    background-color: aquamarine;
+    margin: 30px;
+    height:100px ;
+    width: ;
+text-align: center;
+}
+.yy{
+    background-color: aquamarine;
+    margin: 30px;
+    height: 100px; 
+    text-align: center;
+}
+h1{
+    background-color: brown
+    ;color: white;
+    text-align: center;
+    width: 300px;
+margin-left: 200px;
+
+}
+    
